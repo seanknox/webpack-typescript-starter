@@ -1,5 +1,4 @@
-Webpack 4 + TypeScript starter
-------------------------------
+# Webpack 4 + TypeScript starter
 
 [![Build Status](https://travis-ci.org/juristr/webpack-typescript-starter.svg?branch=master)](https://travis-ci.org/juristr/webpack-typescript-starter)
 
@@ -36,15 +35,16 @@ $ npm i
 # Start developing and serve your app:
 npm start
 
-# Build your app without minification: 
+# Build your app without minification:
 npm run build
 
-# Build your app with minification: 
+# Build your app with minification:
 npm run build.all
 
 # run unit tests:
 npm run test
 ```
+
 ## Contributions
 
 Of course! Open an issue and let's discuss :smiley:.
@@ -54,4 +54,3 @@ Of course! Open an issue and let's discuss :smiley:.
 Similar projects that could be a point of inspiration:
 
 - [krasimir/webpack-library-starter](https://github.com/krasimir/webpack-library-starter)
-
