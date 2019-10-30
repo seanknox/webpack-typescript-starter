@@ -20,9 +20,9 @@ _Note, this is still a WIP. Contributions/suggestions are welcome :smiley:_
 
 Just clone it and get going.
 
-```
+```shell
 # --depth 1 removes all but one .git commit history
-$ git clone --depth=1 https://github.com/juristr/webpack-typescript-starter.git <your-project-name>
+# git clone --depth=1 https://github.com/juristr/webpack-typescript-starter.git <your-project-name>
 
 # change directory to your project
 cd  <your-project-name>
