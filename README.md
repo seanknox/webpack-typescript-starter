@@ -1,5 +1,4 @@
-Webpack 4 + TypeScript starter
-------------------------------
+# Webpack 4 + TypeScript starter
 
 [![Build Status](https://travis-ci.org/juristr/webpack-typescript-starter.svg?branch=master)](https://travis-ci.org/juristr/webpack-typescript-starter)
 
@@ -21,9 +20,9 @@ _Note, this is still a WIP. Contributions/suggestions are welcome :smiley:_
 
 Just clone it and get going.
 
-```
+```shell
 # --depth 1 removes all but one .git commit history
-$ git clone --depth=1 https://github.com/juristr/webpack-typescript-starter.git <your-project-name>
+# git clone --depth=1 https://github.com/juristr/webpack-typescript-starter.git <your-project-name>
 
 # change directory to your project
 cd  <your-project-name>
@@ -36,15 +35,16 @@ $ npm i
 # Start developing and serve your app:
 npm start
 
-# Build your app without minification: 
+# Build your app without minification:
 npm run build
 
-# Build your app with minification: 
+# Build your app with minification:
 npm run build.all
 
 # run unit tests:
 npm run test
 ```
+
 ## Contributions
 
 Of course! Open an issue and let's discuss :smiley:.
@@ -54,4 +54,3 @@ Of course! Open an issue and let's discuss :smiley:.
 Similar projects that could be a point of inspiration:
 
 - [krasimir/webpack-library-starter](https://github.com/krasimir/webpack-library-starter)
-
